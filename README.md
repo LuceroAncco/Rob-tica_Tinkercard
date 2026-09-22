@@ -3,7 +3,7 @@
 Ejercicios de simulación de circuitos con Arduino en Tinkercad Circuits.
 
 ## Autor
-Mirian Lucero Ancco Ancalla - Ingeniería de Software
+Mirian Lucero Ancco Ancalla - Robótica
 
 ---
 
